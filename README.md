@@ -18,4 +18,4 @@ For more information about the project see __________.pdf
 - Oracle Virtual Box
 - Debian ISO
 
-At the time of the immplementation of this project the Debian current stable version was Debian 11.2 bullseye.
+At the time of the immplementation of this project the Debian current stable version was Debian 11 bullseye.
